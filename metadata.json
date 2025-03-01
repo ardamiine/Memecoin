@@ -1,0 +1,24 @@
+{  
+  "name": "$AIBONK",  
+  "symbol": "$AB",  
+  "description": "The ultimate meme coin for the Solana ecosystem. Join the meme revolution!",  
+  "image": "https://example.com/logo.png",  
+  "website": "https://my-meme-coin.com",  
+  "social": {  
+    "twitter": "https://twitter.com/MyMemeCoin",
+  },  
+  "attributes": [  
+    {  
+      "trait_type": "Category",  
+      "value": "Meme Coin"  
+    },  
+    {  
+      "trait_type": "Blockchain",  
+      "value": "Solana"  
+    },  
+    {  
+      "trait_type": "Supply",  
+      "value": "1000000000"  
+    }  
+  ]
+}  
