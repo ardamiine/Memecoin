@@ -1,24 +1,11 @@
 {  
-  "name": "$AIBONK",  
-  "symbol": "$AB",  
-  "description": "The ultimate meme coin for the Solana ecosystem. Join the meme revolution!",  
+  "name": "AIBONK",  
+  "symbol": "AB",  
+  "description": "The ultimate AI meme coin. Get bonked or get rekt.",  
   "image": "https://example.com/logo.png",  
-  "website": "https://my-meme-coin.com",  
+  "website": "https://aibonk.com",  
   "social": {  
-    "twitter": "https://twitter.com/MyMemeCoin",
-  },  
-  "attributes": [  
-    {  
-      "trait_type": "Category",  
-      "value": "Meme Coin"  
-    },  
-    {  
-      "trait_type": "Blockchain",  
-      "value": "Solana"  
-    },  
-    {  
-      "trait_type": "Supply",  
-      "value": "1000000000"  
-    }  
-  ]
+    "twitter": "https://twitter.com/AIBONK",  
+    "discord": "https://discord.gg/aibonk"  
+  }  
 }  
